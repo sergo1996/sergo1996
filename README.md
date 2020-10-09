@@ -1,16 +1,25 @@
-### Hi there 👋
+### Hi there, I'm Serhiy 👋
+I live in Kyiv, Ukraine. I want to find a dream job and do what I love. 
 
-<!--
-**sergo1996/sergo1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on a lot of different stuff
+- 🌱 I’m currently learning Redux
+- 🤔 I’m looking for help with finding more time in a single day
+- 📫 How to reach me: stimchuk123@gmail.com
+- ⚡ Fun fact: I love what I do - code, eat, sleep, repeat 😄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My stack and tools:
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="32px" height="32px" align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="React" width="32px" height="32px" align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg" alt="Redux" width="32px" height="32px" align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML" width="32px" height="32px" align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="32px" height="32px" align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs-icon.svg" alt="NodeJS" width="32px" height="32px" align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/npm.svg" alt="NPM" width="32px" height="32px" align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sass.svg" alt="Sass" width="32px" height="32px" align="left"
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/prettier.svg" alt="Prettier" width="32px" height="32px" align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/webpack.svg" alt="Webpack" width="32px" height="32px" align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="32px" height="32px" align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" alt="GitHub" width="32px" height="32px" align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" align="left" alt="styled-components" width="32px" height="32px">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio-code.svg" alt="/visual-studio-code" width="32px" height="32px">
