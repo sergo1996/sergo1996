@@ -25,4 +25,4 @@ I live in Kyiv, Ukraine. I want to find a dream job and do what I love.
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio-code.svg" alt="/visual-studio-code" width="32px" height="32px">
 
 
-![Lpj's github stats](https://github-readme-stats.vercel.app/api?username=lsergo1996&show_icons=true&count_private=true)
+![Cross's github stats](https://github-readme-stats.vercel.app/api?username=sergo1996&show_icons=true&count_private=true)
