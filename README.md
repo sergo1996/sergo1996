@@ -26,3 +26,6 @@ I live in Kyiv, Ukraine. I want to find a dream job and do what I love.
 
 
 ![Cross's github stats](https://github-readme-stats.vercel.app/api?username=sergo1996&show_icons=true&count_private=true)
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergo1996&layout=compact)
